@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="author">Made by: Bencze János István (GIWUHT)</string>
+
+    <string name="back">Go back</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="view_recipes">View my recipes</string>
+    <string name="random_recipe">I want to try something new</string>
+
+    <!-- Recipe List Screen -->
+    <string name="recipes">Your recipes</string>
+    <string name="no_recipes">You don\'t have any recipes yet</string>
+    <string name="recipe_list_element_type">Type:</string>
+    <string name="recipe_list_element_timeToMake">Time to make:</string>
+
+    <!-- Recipe Detail Screen -->
+    <string name="show_ingredients">Show ingredients</string>
+    <string name="hide_ingredients">Hide ingredients</string>
+    <string name="show_instructions">Show instructions</string>
+    <string name="hide_instructions">Hide instructions</string>
+    <string name="show_links">Show links</string>
+    <string name="hide_links">Hide links</string>
+    <string name="share">Share this recipe</string>
+    <string name="edit">Edit this recipe</string>
+    <string name="delete">Delete this recipe</string>
+
+    <!-- Recipe Delete Dialog -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_dialog_title">Delete this Recipe?</string>
+    <string name="delete_dialog_text">Are you sure you want to delete this recipe? This action is irreversible!</string>
+
+    <!-- Random Recipe Save -->
+    <string name="save_dialog_text">Are you sure you want to save this recipe?</string>
+    <string name="save">Save for later</string>
+    <string name="refresh">Get a new recipe</string>
+
+    <!-- Common -->
+    <string name="recipe_thumbnail">Recipe Thumbnail</string>
+    <string name="recipe_name">Name</string>
+    <string name="recipe_type">Type</string>
+    <string name="recipe_ingredients">Ingredients</string>
+    <string name="recipe_instructions">Instructions</string>
+    <string name="recipe_timeToMake">Time to make (minutes)</string>
+    <string name="recipe_youtubeLink">Youtube Link</string>
+    <string name="recipe_save">Save recipe</string>
+
+    <!-- Notification -->
+    <string name="notif_title">Hungry?</string>
+    <string name="notif_text">Try something new! Today\'s recommendation:</string>
+</resources>
