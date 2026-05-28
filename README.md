@@ -1,3 +1,5 @@
+note: This is a reupload of the original, private repository, with most Uni-related stuff removed
+
 # Házi feladat specifikáció
 
 ## Androidalapú szoftverfejlesztés
