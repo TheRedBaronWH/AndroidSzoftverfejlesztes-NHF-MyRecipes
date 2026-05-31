@@ -1,7 +1,7 @@
 <h1>MyRecipes: Recept tároló és ajánló alkalmazás projekt</h1>
 <h2>Androidalapú Szoftverfejlesztés Nagyházi</h2>
 
-Használt tehnológiák:
+Használt tehnológiák:  
 -Kotlin  
 -TheMealDB API
 
