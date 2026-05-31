@@ -2,7 +2,7 @@
 <h2>Androidalapú Szoftverfejlesztés Nagyházi</h2>
 
 Használt tehnológiák:
--Kotlin
+-Kotlin  
 -TheMealDB API
 
 note: This is a reupload of the original, private repository, with most Uni-related stuff removed
