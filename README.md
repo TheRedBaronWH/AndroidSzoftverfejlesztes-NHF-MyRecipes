@@ -1,3 +1,10 @@
+<h1>MyRecipes: Recept tároló és ajánló alkalmazás projekt</h1>
+<h2>Androidalapú Szoftverfejlesztés Nagyházi</h2>
+
+Használt tehnológiák:
+-Kotlin
+-TheMealDB API
+
 note: This is a reupload of the original, private repository, with most Uni-related stuff removed
 
 # Házi feladat specifikáció
